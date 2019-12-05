@@ -36,7 +36,8 @@
   "image#about-us": {
     "props": {
       "src": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-about-us.png",
-      "maxHeight": "600px"
+      "maxHeight": "600px",
+      "title": "test"
     }
   },
   "tab-layout#home": {
@@ -80,7 +81,7 @@
   },
   "tab-content.item#home2": {
     "children": [
-      "iframe#home2"
+      "iframe"
     ],
     "props": {
       "tabId": "instagram"
@@ -92,7 +93,7 @@
       "textPosition": "CENTER"
     }
   },
-  "iframe#home2": {
+  "iframe": {
     "props": {
       "src": "https://www.instagram.com/p/B37Zfd6FobU/embed"
     }
