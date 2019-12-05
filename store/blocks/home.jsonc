@@ -37,7 +37,7 @@
       "callToActionText": "Go to collection",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
-      "blockClass": [ "vintage", "metal" ]
+      "blockClass": "metal"
     }
   },
 
