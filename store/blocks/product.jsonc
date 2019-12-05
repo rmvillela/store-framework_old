@@ -33,6 +33,7 @@
   "product-brand": {
     "props": { 
       "displayMode": "logo",
+      "title": "brand",
       "height": 30
     }
   },
