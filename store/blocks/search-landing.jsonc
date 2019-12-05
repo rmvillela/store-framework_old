@@ -9,7 +9,7 @@
   "image#landingbanner": {
     "props": {
       "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
-      "maxHeight": "24px"
+      "minWidth": "100%"
     }
   },
 
