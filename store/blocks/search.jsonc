@@ -62,5 +62,11 @@
 
   "gallery": {
     "blocks": ["product-summary.shelf"]
+  },
+
+  "product-summary.shelf": {
+    "props": {
+      "product-summary-sku-selector": true
+    }
   }
 }
