@@ -61,11 +61,11 @@
   },
 
   "gallery": {
-    "blocks": ["product-summary.shelf"]
+    "blocks": ["product-summary.shelf#1"]
   },
 
-  "product-summary.shelf": {
-    "blocks": [
+  "product-summary.shelf#1": {
+    "children": [
       "product-summary-sku-selector"
     ]
   }
