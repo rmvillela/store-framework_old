@@ -57,7 +57,6 @@
       "minicart",
       "login"
     ],
-  
     "props": {
       "sticky": true,
       "inverted":true
@@ -89,7 +88,8 @@
   "rich-text#header": {
     "props": {
       "text": "**Free Shipping on orders over $50**",
-      "textPosition": "CENTER"
+      "textPosition": "CENTER",
+      "textAlignment": "CENTER"
     }
   }
 }
