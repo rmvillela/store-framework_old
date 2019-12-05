@@ -61,12 +61,6 @@
   },
 
   "gallery": {
-    "children": ["product-summary.shelf#1"]
-  },
-
-  "product-summary.shelf#1": {
-    "children": [
-      "product-summary-sku-selector"
-    ]
+    "blocks": ["product-summary.shelf"]
   }
 }
