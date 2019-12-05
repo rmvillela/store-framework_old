@@ -65,7 +65,7 @@
   },
 
   "product-summary.shelf": {
-    "children": [
+    "blocks": [
       "product-summary-sku-selector"
     ]
   }
